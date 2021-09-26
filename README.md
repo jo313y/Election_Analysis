@@ -42,9 +42,9 @@ The analysis of the election shows that:
     - Denver
     - Arapahoe
    - The county results were:
-    - Jefferson County cast 10.5% of the vote with 38,855 votes.
-    - Denver County cast 82.8% of the vote with 306,055 votes.
-    - Arapahoe County cast 6.7% of the vote with 24,801 votes.
+     - Jefferson County cast 10.5% of the vote with 38,855 votes.
+     - Denver County cast 82.8% of the vote with 306,055 votes.
+     - Arapahoe County cast 6.7% of the vote with 24,801 votes.
    - County in which most votes were cast:
-    - Denver County voters cast the most votes at 82.8% of the vote with 306,055 votes.
+     - Denver County voters cast the most votes at 82.8% of the vote with 306,055 votes.
   
