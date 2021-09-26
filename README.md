@@ -34,7 +34,7 @@ The analysis of the election shows that:
  -The Winner of the election was:
   -Diana Degett who received 73.8% of the votes and 272,892 number of votes.
   
-  ##Challenge Summary
+  ## Challenge Summary
   The additional analysis of the election shows that:
   -There were 369,711 votes cast in the election.
   - The counties the votes were cast from were:
