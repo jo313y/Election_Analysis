@@ -48,7 +48,7 @@ The analysis of the election shows that:
    - County in which most votes were cast:
      - Denver County voters cast the most votes at 82.8% of the vote with 306,055 votes.
 
-#Election-Audit Summary
+# Election-Audit Summary
   This audit was created at the request of the Colorado Board of Elections Comittee. The comittee found it very useful to summarize the election with a simple program. This program has been built in a way that is easily modifiable for any election in the future as well. 
   
   This data was taken from a CSV file from Excel. Any election which compiles the data onto this file type can be used with only slight modifications as long as there is a column containing Counts(Ballot IDs), Counties, or Candidates. It doesn't matter which column in the file they are located because this program can be set to grab the data from any column. In order to change the column locations, the program only needs to be modifed in 2 lines.
