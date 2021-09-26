@@ -9,7 +9,7 @@ A Colorado Board of Election employee has given me the following tasks to comple
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-##Challenge Overview
+## Challenge Overview
 A Colorado Board of Election employee has requested additional information to complete the analysis.
 
 1. The voter turnout for each county
