@@ -38,9 +38,9 @@ The analysis of the election shows that:
   The additional analysis of the election shows that:
   - There were 369,711 votes cast in the election.
   - The counties the votes were cast from were:
-    -Jefferson
-    -Denver
-    -Arapahoe
+    - Jefferson
+    - Denver
+    - Arapahoe
    - The county results were:
     - Jefferson County cast 10.5% of the vote with 38,855 votes.
     - Denver County cast 82.8% of the vote with 306,055 votes.
