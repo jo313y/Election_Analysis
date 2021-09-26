@@ -22,29 +22,29 @@ A Colorado Board of Election employee has requested additional information to co
 
 ## Summary
 The analysis of the election shows that:
--There were 369,711 votes cast in the election.
--The candidates were:
-  -Charles Casper Stockham
-  -Diana Degette
-  -Raymon Anthony Doane
- -The candidate results were:
-  -Charles Casper Stockham received 23.0% of the vote with 85,213 number of votes.
-  -Diana DeGette received 73.8% of the vote with 272,892 number of votes.
-  -Raymon Anthony Doane received 3.1% of the vote with 11,606 number of votes.
- -The Winner of the election was:
-  -Diana Degett who received 73.8% of the votes and 272,892 number of votes.
+- There were 369,711 votes cast in the election.
+- The candidates were:
+  - Charles Casper Stockham
+  - Diana Degette
+  - Raymon Anthony Doane
+ - The candidate results were:
+  - Charles Casper Stockham received 23.0% of the vote with 85,213 number of votes.
+  - Diana DeGette received 73.8% of the vote with 272,892 number of votes.
+  - Raymon Anthony Doane received 3.1% of the vote with 11,606 number of votes.
+ - The Winner of the election was:
+  - Diana Degett who received 73.8% of the votes and 272,892 number of votes.
   
   ## Challenge Summary
   The additional analysis of the election shows that:
-  -There were 369,711 votes cast in the election.
+  - There were 369,711 votes cast in the election.
   - The counties the votes were cast from were:
     -Jefferson
     -Denver
     -Arapahoe
-   -The county results were:
+   - The county results were:
     - Jefferson County cast 10.5% of the vote with 38,855 votes.
     - Denver County cast 82.8% of the vote with 306,055 votes.
     - Arapahoe County cast 6.7% of the vote with 24,801 votes.
-   -County in which most votes were cast:
-    -Denver County voters cast the most votes at 82.8% of the vote with 306,055 votes.
+   - County in which most votes were cast:
+    - Denver County voters cast the most votes at 82.8% of the vote with 306,055 votes.
   
